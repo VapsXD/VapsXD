@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Como já me apresentei acima, eu sou o Victor Santo, entrei no mundo da tecnologia graças ao meu interesse e curiosidade em destrinchar jogos. 
+    Como já me apresentei acima, eu sou o Victor Santos, entrei no mundo da tecnologia graças ao meu interesse e curiosidade em destrinchar jogos. 
     Atualmente eu estou cursando Ciência da Computação no Centro universitário UNA e atuando como Instrutor no FavelaWare, um projeto para a formação técnica de jovens programadores.
 
     🌟Aqui eu vou compartilhar minhas evoluções, ideias e projetos ao mundo =D
